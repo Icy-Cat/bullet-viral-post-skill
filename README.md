@@ -13,11 +13,11 @@
 
 ---
 
-## 一键安装（推荐）
+## 一键安装（推荐直接发给AI）
 
 ```text
-请参照这个仓库的说明，为我安装 skill：
-https://github.com/Icy-Cat/bullet-viral-post-skill
+请参照这个 README 的说明，为我安装 skill：
+https://github.com/Icy-Cat/bullet-viral-post-skill/blob/main/README.md
 ```
 
 ## 手动安装（终端）

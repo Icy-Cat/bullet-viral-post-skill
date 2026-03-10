@@ -13,21 +13,14 @@
 
 ---
 
-## 给 AI 的一键安装指令（推荐）
+## 一键安装（推荐）
 
 ```text
 请参照这个仓库的说明，为我安装 skill：
 https://github.com/Icy-Cat/bullet-viral-post-skill
 ```
 
-### 安装后使用
-
-```text
-请用 bullet-viral-post 这个 skill，
-基于“年轻人不结婚”这个话题写 1 条中文 X 推文。
-```
-
-## 终端一键安装（手动执行）
+## 手动安装（终端）
 
 ### macOS / Linux
 
@@ -47,20 +40,24 @@ Copy-Item -Recurse -Force "$env:TEMP/bullet-viral-post-skill/*" "$HOME/.claude/s
 
 ---
 
-## 安装后怎么用
+## 使用
 
-- 直接输入：`/bullet-viral-post`
-- 或输入关键词：`推特爆款` / `爆款推文` / `/bullet`
+```text
+请用 bullet-viral-post 这个 skill，
+基于“年轻人不结婚”这个话题写 1 条中文 X 推文。
+```
+
+- 也可直接输入：`/bullet-viral-post`
+- 或关键词触发：`推特爆款` / `爆款推文` / `/bullet`
 
 ## 快速检查
 
 - 存在目录：`~/.claude/skills/bullet-viral-post/`
 - 目录里有：`SKILL.md`、`step1-input-analysis.md`、`step9-auto-save.md`
 
-## 路径配置（可选）
+## 可选配置
 
-自动保存草稿路径支持变量：`{{DRAFT_BASE_PATH}}/YYYY-MM/`  
-默认示例见 `step9-auto-save.md`。
+自动保存草稿路径变量：`{{DRAFT_BASE_PATH}}/YYYY-MM/`（见 `step9-auto-save.md`）
 
 ## 版本
 

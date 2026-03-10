@@ -1,5 +1,6 @@
 # bullet-viral-post
 
+> 对应推文文章：<https://x.com/i/status/2031180628222423468>  
 > 作者（推文来源）：**软苏 Grace（@Graceruansu）**  
 > X 账号：<https://x.com/Graceruansu>
 

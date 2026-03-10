@@ -13,7 +13,14 @@
 
 ---
 
-## 一键安装（新手直接复制）
+## 给 AI 的一键安装指令（推荐）
+
+```text
+请参照这个仓库的说明，为我安装 skill：
+https://github.com/Icy-Cat/bullet-viral-post-skill
+```
+
+## 终端一键安装（手动执行）
 
 ### macOS / Linux
 

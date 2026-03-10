@@ -1,0 +1,7 @@
+{
+  "name": "bullet-viral-post",
+  "version": "0.1.2",
+  "description": "基于爆款推文SOP的中文X推文生成技能",
+  "author": "软苏Grace @Graceruansu",
+  "entry": "SKILL.md"
+}

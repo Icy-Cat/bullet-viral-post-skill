@@ -25,7 +25,6 @@ https://github.com/Icy-Cat/bullet-viral-post-skill
 ```text
 安装完成后，请用 bullet-viral-post 这个 skill，
 基于“年轻人不结婚”这个话题写 1 条中文 X 推文。
-要求：分点结构、100-150 字、开头要有冲突感、结尾点破本质、去 AI 味。
 ```
 
 ### 简单使用案例（参照上方前后对比图）

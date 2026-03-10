@@ -20,10 +20,10 @@
 https://github.com/Icy-Cat/bullet-viral-post-skill
 ```
 
-### 安装后怎么用（给 AI 的最简说明）
+### 安装后使用
 
 ```text
-安装完成后，请用 bullet-viral-post 这个 skill，
+请用 bullet-viral-post 这个 skill，
 基于“年轻人不结婚”这个话题写 1 条中文 X 推文。
 ```
 
